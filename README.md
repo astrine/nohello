@@ -1,5 +1,7 @@
 # NoHello
 
+원문: [https://nohello.com](https://nohello.com)
+
 ### 채팅에서 그냥 "안녕하세요"라고 말하지 마세요.
 
 > 2010-07-19 12:32:12 당신: 안녕하세요.<br>
